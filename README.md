@@ -45,8 +45,7 @@ image: 'epinard.jpg',
 ingredients: '450g d\'Épinards, 2 Pommes, 6 tranches de Bacon, 1 Oignon',
 instructions: "Laver et couper en 2 les feuilles d'épinards.\nPréparer une sauce vinaigrette.\nLaver et couper les pommes. Emincer l'oignon. Faire griller le Bacon.\nAjouter le tout aux épinards.\nS'accorde bien avec un Pinot Blanc."
 },
-Follow the 
-
+Follow the indentation file
 
 
 ## Release History
@@ -71,15 +70,8 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjgxNTMxOCwyMjI0MTUzMjEsMzE1MD
+eyJoaXN0b3J5IjpbMTE1MTI1MTM2NywyMjI0MTUzMjEsMzE1MD
 E4NjIwLC01NTg0MDMzNjgsLTQzMzI3NjU5NCwzNDMyMTA4MjAs
 LTczODI1NjQ0OCwtMTAyMTMyMTM0MSwxNTM2NzI3OTQwLDEyND
 c2MDYyNjIsLTIwODg3NDY2MTIsLTMzMjQ1NTM2M119
