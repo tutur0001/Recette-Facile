@@ -1,9 +1,8 @@
 # Product Name
 > Short blurb about what your product does.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+<div align="center">
+ <img src="https://img.shields.io/badge/ %E2%9C%94%20Updated%20For%20Version%20-%20Node%2014.0.0-brightgreen.svg" alt="Updated for Node 14.0.0">
+</div>
 
 One to two paragraph statement about your product and what it does.
 
@@ -60,7 +59,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjEzMjEzNDEsLTEwMjEzMjEzNDEsMT
-UzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMDg4NzQ2NjEyLC0zMzI0
-NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTczODI1NjQ0OCwtMTAyMTMyMTM0MSwxNT
+M2NzI3OTQwLDEyNDc2MDYyNjIsLTIwODg3NDY2MTIsLTMzMjQ1
+NTM2M119
 -->
