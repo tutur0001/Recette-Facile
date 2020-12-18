@@ -20,6 +20,8 @@ git clone https://github.com/tutur0001/Recette-Facile.git
 cd Recette-Facile
 npm install 
 ```
+IOS: 
+
 
 
 
@@ -71,8 +73,9 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTI1MTM2NywyMjI0MTUzMjEsMzE1MD
-E4NjIwLC01NTg0MDMzNjgsLTQzMzI3NjU5NCwzNDMyMTA4MjAs
-LTczODI1NjQ0OCwtMTAyMTMyMTM0MSwxNTM2NzI3OTQwLDEyND
-c2MDYyNjIsLTIwODg3NDY2MTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTE2MzYwODM4NTAsMTE1MTI1MTM2NywyMj
+I0MTUzMjEsMzE1MDE4NjIwLC01NTg0MDMzNjgsLTQzMzI3NjU5
+NCwzNDMyMTA4MjAsLTczODI1NjQ0OCwtMTAyMTMyMTM0MSwxNT
+M2NzI3OTQwLDEyNDc2MDYyNjIsLTIwODg3NDY2MTIsLTMzMjQ1
+NTM2M119
 -->
