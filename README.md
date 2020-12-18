@@ -38,7 +38,18 @@ For add recipes in seeder go in:
 cd src
 vim recettes.js 
 ```
-Follow this template for redacti
+Follow this template for writing your recipe:
+recette1: {
+
+nom: 'Salade d\'épinards du Soleil',
+
+image: 'epinard.jpg',
+
+ingredients: '450g d\'Épinards, 2 Pommes, 6 tranches de Bacon, 1 Oignon',
+
+instructions: "Laver et couper en 2 les feuilles d'épinards.\nPréparer une sauce vinaigrette.\nLaver et couper les pommes. Emincer l'oignon. Faire griller le Bacon.\nAjouter le tout aux épinards.\nS'accorde bien avec un Pinot Blanc."
+
+},
 
 
 
@@ -73,8 +84,8 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNjc5MzM3LDIyMjQxNTMyMSwzMTUwMT
-g2MjAsLTU1ODQwMzM2OCwtNDMzMjc2NTk0LDM0MzIxMDgyMCwt
-NzM4MjU2NDQ4LC0xMDIxMzIxMzQxLDE1MzY3Mjc5NDAsMTI0Nz
-YwNjI2MiwtMjA4ODc0NjYxMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE1NzcyNjM3MzAsMjIyNDE1MzIxLDMxNT
+AxODYyMCwtNTU4NDAzMzY4LC00MzMyNzY1OTQsMzQzMjEwODIw
+LC03MzgyNTY0NDgsLTEwMjEzMjEzNDEsMTUzNjcyNzk0MCwxMj
+Q3NjA2MjYyLC0yMDg4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
 -->
