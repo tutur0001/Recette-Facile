@@ -1,7 +1,10 @@
 # Product Name
 > Short blurb about what your product does.
+[![npm version](https://badge.fury.io/js/react.svg)](https://badge.fury.io/js/react)
 <div align="center">
-<a href="https://badge.fury.io/js/npm"><img src="https://badge.fury.io/js/npm.svg" alt="npm version" height="18"></a>
+
+
+
 </div>
 
 One to two paragraph statement about your product and what it does.
@@ -59,8 +62,8 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MDE4NjIwLC01NTg0MDMzNjgsLTQzMz
-I3NjU5NCwzNDMyMTA4MjAsLTczODI1NjQ0OCwtMTAyMTMyMTM0
-MSwxNTM2NzI3OTQwLDEyNDc2MDYyNjIsLTIwODg3NDY2MTIsLT
-MzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTY2MzM4Mzg4NSwzMTUwMTg2MjAsLTU1OD
+QwMzM2OCwtNDMzMjc2NTk0LDM0MzIxMDgyMCwtNzM4MjU2NDQ4
+LC0xMDIxMzIxMzQxLDE1MzY3Mjc5NDAsMTI0NzYwNjI2MiwtMj
+A4ODc0NjYxMiwtMzMyNDU1MzYzXX0=
 -->
