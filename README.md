@@ -38,11 +38,11 @@ npm start
 
 ## Meta
 
-Michon Arthur – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Michon Arthur – [@Professional adresse](michon-arthur) 
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/tutur0001](https://github.com/dbader/)
 
 ## Contributing
 
@@ -60,6 +60,6 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1NTkxMDM0LDEyNDc2MDYyNjIsLTIwOD
-g3NDY2MTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTcyMjUzNjkyNywxMjQ3NjA2MjYyLC0yMD
+g4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
 -->
