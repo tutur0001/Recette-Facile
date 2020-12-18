@@ -91,13 +91,14 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-6. If you wan't access 
+6. if you want an access of the bdd contact me with this address mail michon-arthurpro@protonmail.ch
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk0MjcyNjcsLTIxNTk4OTc3Miw3Nz
-cwOTg4OTQsNzI2OTEwNjMyLDE1ODAzNjU4OTgsMzYwMDk5Mjg3
-LC0xNjM2MDgzODUwLDExNTEyNTEzNjcsMjIyNDE1MzIxLDMxNT
-AxODYyMCwtNTU4NDAzMzY4LC00MzMyNzY1OTQsMzQzMjEwODIw
-LC03MzgyNTY0NDgsLTEwMjEzMjEzNDEsMTUzNjcyNzk0MCwxMj
-Q3NjA2MjYyLC0yMDg4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTIwNzQyMzE4OTYsLTE1Nzk0MjcyNjcsLT
+IxNTk4OTc3Miw3NzcwOTg4OTQsNzI2OTEwNjMyLDE1ODAzNjU4
+OTgsMzYwMDk5Mjg3LC0xNjM2MDgzODUwLDExNTEyNTEzNjcsMj
+IyNDE1MzIxLDMxNTAxODYyMCwtNTU4NDAzMzY4LC00MzMyNzY1
+OTQsMzQzMjEwODIwLC03MzgyNTY0NDgsLTEwMjEzMjEzNDEsMT
+UzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMDg4NzQ2NjEyLC0zMzI0
+NTUzNjNdfQ==
 -->
