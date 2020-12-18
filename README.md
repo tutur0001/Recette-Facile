@@ -10,6 +10,14 @@
 <a href="https://badge.fury.io/js/react"><img src="https://badge.fury.io/js/react.svg" alt="npm version" height="18"></a>
 </div>
 
+## Requirements
+
+* Node.js 
+* Npm
+* Web Server (Apache)
+* <a href="https://github.com/matvki/times_up/wiki">All explications here</a>
+
+
 
 ## Installation
 
@@ -73,9 +81,9 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYwODM4NTAsMTE1MTI1MTM2NywyMj
-I0MTUzMjEsMzE1MDE4NjIwLC01NTg0MDMzNjgsLTQzMzI3NjU5
-NCwzNDMyMTA4MjAsLTczODI1NjQ0OCwtMTAyMTMyMTM0MSwxNT
-M2NzI3OTQwLDEyNDc2MDYyNjIsLTIwODg3NDY2MTIsLTMzMjQ1
-NTM2M119
+eyJoaXN0b3J5IjpbMzYwMDk5Mjg3LC0xNjM2MDgzODUwLDExNT
+EyNTEzNjcsMjIyNDE1MzIxLDMxNTAxODYyMCwtNTU4NDAzMzY4
+LC00MzMyNzY1OTQsMzQzMjEwODIwLC03MzgyNTY0NDgsLTEwMj
+EzMjEzNDEsMTUzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMDg4NzQ2
+NjEyLC0zMzI0NTUzNjNdfQ==
 -->
