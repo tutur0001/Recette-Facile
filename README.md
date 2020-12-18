@@ -1,17 +1,15 @@
-# Product Name
+# Recette Facile
 <div align="center">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-
-
+</div>
+<div align="center">
+<a href="https://badge.fury.io/js/react"><img src="https://badge.fury.io/js/react.svg" alt="npm version" height="18"></a>
 </div>
 
-One to two paragraph statement about your product and what it does.
-
-![](header.png)
 
 ## Installation
 
@@ -64,8 +62,8 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNDE1MzIxLDMxNTAxODYyMCwtNTU4ND
-AzMzY4LC00MzMyNzY1OTQsMzQzMjEwODIwLC03MzgyNTY0NDgs
-LTEwMjEzMjEzNDEsMTUzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMD
-g4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTgwNzg5MDk2MCwyMjI0MTUzMjEsMzE1MD
+E4NjIwLC01NTg0MDMzNjgsLTQzMzI3NjU5NCwzNDMyMTA4MjAs
+LTczODI1NjQ0OCwtMTAyMTMyMTM0MSwxNTM2NzI3OTQwLDEyND
+c2MDYyNjIsLTIwODg3NDY2MTIsLTMzMjQ1NTM2M119
 -->
