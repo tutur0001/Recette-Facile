@@ -31,6 +31,7 @@ IOS:
 Go on :
 https://recette-facile.netlify.app/
 
+![Google logo](readmeSource/photo2."google logo")
 
 
 
@@ -81,10 +82,10 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3MDk4ODk0LDcyNjkxMDYzMiwxNTgwMz
-Y1ODk4LDM2MDA5OTI4NywtMTYzNjA4Mzg1MCwxMTUxMjUxMzY3
-LDIyMjQxNTMyMSwzMTUwMTg2MjAsLTU1ODQwMzM2OCwtNDMzMj
-c2NTk0LDM0MzIxMDgyMCwtNzM4MjU2NDQ4LC0xMDIxMzIxMzQx
-LDE1MzY3Mjc5NDAsMTI0NzYwNjI2MiwtMjA4ODc0NjYxMiwtMz
-MyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTg1MzA5MzQ0OCw3NzcwOTg4OTQsNzI2OT
+EwNjMyLDE1ODAzNjU4OTgsMzYwMDk5Mjg3LC0xNjM2MDgzODUw
+LDExNTEyNTEzNjcsMjIyNDE1MzIxLDMxNTAxODYyMCwtNTU4ND
+AzMzY4LC00MzMyNzY1OTQsMzQzMjEwODIwLC03MzgyNTY0NDgs
+LTEwMjEzMjEzNDEsMTUzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMD
+g4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
 -->
