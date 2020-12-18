@@ -28,6 +28,8 @@ cd Recette-Facile
 npm install 
 ```
 IOS: 
+Go on :
+https://recette-facile.netlify.app/
 
 
 
@@ -79,10 +81,10 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2OTEwNjMyLDE1ODAzNjU4OTgsMzYwMD
-k5Mjg3LC0xNjM2MDgzODUwLDExNTEyNTEzNjcsMjIyNDE1MzIx
-LDMxNTAxODYyMCwtNTU4NDAzMzY4LC00MzMyNzY1OTQsMzQzMj
-EwODIwLC03MzgyNTY0NDgsLTEwMjEzMjEzNDEsMTUzNjcyNzk0
-MCwxMjQ3NjA2MjYyLC0yMDg4NzQ2NjEyLC0zMzI0NTUzNjNdfQ
-==
+eyJoaXN0b3J5IjpbNzc3MDk4ODk0LDcyNjkxMDYzMiwxNTgwMz
+Y1ODk4LDM2MDA5OTI4NywtMTYzNjA4Mzg1MCwxMTUxMjUxMzY3
+LDIyMjQxNTMyMSwzMTUwMTg2MjAsLTU1ODQwMzM2OCwtNDMzMj
+c2NTk0LDM0MzIxMDgyMCwtNzM4MjU2NDQ4LC0xMDIxMzIxMzQx
+LDE1MzY3Mjc5NDAsMTI0NzYwNjI2MiwtMjA4ODc0NjYxMiwtMz
+MyNDU1MzYzXX0=
 -->
