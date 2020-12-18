@@ -1,7 +1,7 @@
 # Product Name
 > Short blurb about what your product does.
 <div align="center">
- <img src="https://img.shields.io/badge/ %E2%9C%94%20Updated%20For%20Version%20-%20Node%2014.0.0-brightgreen.svg" alt="Updated for Node 14.0.0"><a href="https://badge.fury.io/js/npm"><img src="https://badge.fury.io/js/npm.svg" alt="npm version" height="18"></a>
+<a href="https://badge.fury.io/js/npm"><img src="https://badge.fury.io/js/npm.svg" alt="npm version" height="18"></a>
  
 </div>
 
@@ -60,7 +60,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU2MjU2NzksLTczODI1NjQ0OCwtMT
-AyMTMyMTM0MSwxNTM2NzI3OTQwLDEyNDc2MDYyNjIsLTIwODg3
-NDY2MTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMzQzMjEwODIwLC03MzgyNTY0NDgsLTEwMj
+EzMjEzNDEsMTUzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMDg4NzQ2
+NjEyLC0zMzI0NTUzNjNdfQ==
 -->
