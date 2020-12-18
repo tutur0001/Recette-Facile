@@ -17,24 +17,17 @@ OS X & Linux:
 git clone https://github.com/tutur0001/Recette-Facile.git
 cd Recette-Facile
 npm install 
-
 ```
 
 
 
-## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+## Start development setup
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+For start your local serveur do:
 
 ```sh
-make install
-npm test
+npm start
 ```
 
 ## Release History
@@ -76,6 +69,6 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5MjMxODUxLDEyNDc2MDYyNjIsLTIwOD
-g3NDY2MTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTE1NjQxOTgwMjUsMTI0NzYwNjI2MiwtMj
+A4ODc0NjYxMiwtMzMyNDU1MzYzXX0=
 -->
