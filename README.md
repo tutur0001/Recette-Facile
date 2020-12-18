@@ -14,8 +14,7 @@
 
 * Node.js 
 * Npm
-* Web Server (Apache)
-* <a href="https://github.com/matvki/times_up/wiki">All explications here</a>
+* 
 
 
 
@@ -81,9 +80,9 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwMDk5Mjg3LC0xNjM2MDgzODUwLDExNT
-EyNTEzNjcsMjIyNDE1MzIxLDMxNTAxODYyMCwtNTU4NDAzMzY4
-LC00MzMyNzY1OTQsMzQzMjEwODIwLC03MzgyNTY0NDgsLTEwMj
-EzMjEzNDEsMTUzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMDg4NzQ2
-NjEyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMTU4MDM2NTg5OCwzNjAwOTkyODcsLTE2Mz
+YwODM4NTAsMTE1MTI1MTM2NywyMjI0MTUzMjEsMzE1MDE4NjIw
+LC01NTg0MDMzNjgsLTQzMzI3NjU5NCwzNDMyMTA4MjAsLTczOD
+I1NjQ0OCwtMTAyMTMyMTM0MSwxNTM2NzI3OTQwLDEyNDc2MDYy
+NjIsLTIwODg3NDY2MTIsLTMzMjQ1NTM2M119
 -->
