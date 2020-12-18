@@ -2,8 +2,8 @@
 > Short blurb about what your product does.
 <div align="center">
 <a href="https://badge.fury.io/js/npm"><img src="https://badge.fury.io/js/npm.svg" alt="npm version" height="18"></a>
- 
 </div>
+
 
 One to two paragraph statement about your product and what it does.
 
@@ -60,7 +60,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMjEwODIwLC03MzgyNTY0NDgsLTEwMj
-EzMjEzNDEsMTUzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMDg4NzQ2
-NjEyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTQzMzI3NjU5NCwzNDMyMTA4MjAsLTczOD
+I1NjQ0OCwtMTAyMTMyMTM0MSwxNTM2NzI3OTQwLDEyNDc2MDYy
+NjIsLTIwODg3NDY2MTIsLTMzMjQ1NTM2M119
 -->
