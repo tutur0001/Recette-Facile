@@ -42,11 +42,8 @@ https://recette-facile.netlify.app/
 <img src = "readmeSource/photo3.jpg" title = "google logo" alt = "Exemple ios">
 
 * After this Click on "Ajouter" 
-well it's ready, Enjoy
+well it's ready, Enjoy :)
  
-
-
-
 
 ## Start development setup
 
@@ -95,7 +92,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MDQ5OTEsNzc3MDk4ODk0LDcyNjkxMD
+eyJoaXN0b3J5IjpbODA5NDI4MTgsNzc3MDk4ODk0LDcyNjkxMD
 YzMiwxNTgwMzY1ODk4LDM2MDA5OTI4NywtMTYzNjA4Mzg1MCwx
 MTUxMjUxMzY3LDIyMjQxNTMyMSwzMTUwMTg2MjAsLTU1ODQwMz
 M2OCwtNDMzMjc2NTk0LDM0MzIxMDgyMCwtNzM4MjU2NDQ4LC0x
