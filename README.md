@@ -14,7 +14,7 @@
 
 * Node.js 
 * Npm
-* 
+* Good base in React
 
 
 
@@ -28,7 +28,6 @@ cd Recette-Facile
 npm install 
 ```
 IOS: 
-
 
 
 
@@ -80,9 +79,10 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDM2NTg5OCwzNjAwOTkyODcsLTE2Mz
-YwODM4NTAsMTE1MTI1MTM2NywyMjI0MTUzMjEsMzE1MDE4NjIw
-LC01NTg0MDMzNjgsLTQzMzI3NjU5NCwzNDMyMTA4MjAsLTczOD
-I1NjQ0OCwtMTAyMTMyMTM0MSwxNTM2NzI3OTQwLDEyNDc2MDYy
-NjIsLTIwODg3NDY2MTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbNzI2OTEwNjMyLDE1ODAzNjU4OTgsMzYwMD
+k5Mjg3LC0xNjM2MDgzODUwLDExNTEyNTEzNjcsMjIyNDE1MzIx
+LDMxNTAxODYyMCwtNTU4NDAzMzY4LC00MzMyNzY1OTQsMzQzMj
+EwODIwLC03MzgyNTY0NDgsLTEwMjEzMjEzNDEsMTUzNjcyNzk0
+MCwxMjQ3NjA2MjYyLC0yMDg4NzQ2NjEyLC0zMzI0NTUzNjNdfQ
+==
 -->
