@@ -14,14 +14,12 @@ One to two paragraph statement about your product and what it does.
 OS X & Linux:
 
 ```sh
+git clone https://github.com/tutur0001/Recette-Facile.git
+cd 
 npm install my-crazy-module --save
 ```
 
-Windows:
 
-```sh
-edit autoexec.bat
-```
 
 ## Usage example
 
@@ -77,6 +75,6 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTQ2MjY1NCwtMjA4ODc0NjYxMiwtMz
+eyJoaXN0b3J5IjpbMTI0NzYwNjI2MiwtMjA4ODc0NjYxMiwtMz
 MyNDU1MzYzXX0=
 -->
