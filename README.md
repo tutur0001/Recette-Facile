@@ -56,11 +56,11 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]:https://camo.githubusercontent.com/23689c2d9ab1e0c4e069d3af07021920bb299162ffc1fc8a32821a46884cf023/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2025453225394325393425323055706461746564253230466f7225323056657273696f6e2532302d2532304e6f646525323031342e302e302d627269676874677265656e2e737667/master.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM3NDQxMTgsLTEwMjEzMjEzNDEsMT
+eyJoaXN0b3J5IjpbLTEwMjEzMjEzNDEsLTEwMjEzMjEzNDEsMT
 UzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMDg4NzQ2NjEyLC0zMzI0
 NTUzNjNdfQ==
 -->
