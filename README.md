@@ -60,7 +60,8 @@ cd src
 vim recettes.js 
 ```
 Follow this template for writing your recipe:
-recette1: {
+
+  recette1: {
 nom: 'Salade d\'épinards du Soleil',
 image: 'epinard.jpg',
 ingredients: '450g d\'Épinards, 2 Pommes, 6 tranches de Bacon, 1 Oignon',
@@ -92,10 +93,10 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5NDI4MTgsNzc3MDk4ODk0LDcyNjkxMD
-YzMiwxNTgwMzY1ODk4LDM2MDA5OTI4NywtMTYzNjA4Mzg1MCwx
-MTUxMjUxMzY3LDIyMjQxNTMyMSwzMTUwMTg2MjAsLTU1ODQwMz
-M2OCwtNDMzMjc2NTk0LDM0MzIxMDgyMCwtNzM4MjU2NDQ4LC0x
-MDIxMzIxMzQxLDE1MzY3Mjc5NDAsMTI0NzYwNjI2MiwtMjA4OD
-c0NjYxMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTIxNTk4OTc3Miw3NzcwOTg4OTQsNzI2OT
+EwNjMyLDE1ODAzNjU4OTgsMzYwMDk5Mjg3LC0xNjM2MDgzODUw
+LDExNTEyNTEzNjcsMjIyNDE1MzIxLDMxNTAxODYyMCwtNTU4ND
+AzMzY4LC00MzMyNzY1OTQsMzQzMjEwODIwLC03MzgyNTY0NDgs
+LTEwMjEzMjEzNDEsMTUzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMD
+g4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
 -->
