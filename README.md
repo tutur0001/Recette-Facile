@@ -1,8 +1,6 @@
 # Product Name
-> Short blurb about what your product does.
-[![npm version](https://badge.fury.io/js/react.svg)](https://badge.fury.io/js/react)
 <div align="center">
-
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 
 </div>
@@ -62,8 +60,8 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzM4Mzg4NSwzMTUwMTg2MjAsLTU1OD
-QwMzM2OCwtNDMzMjc2NTk0LDM0MzIxMDgyMCwtNzM4MjU2NDQ4
-LC0xMDIxMzIxMzQxLDE1MzY3Mjc5NDAsMTI0NzYwNjI2MiwtMj
-A4ODc0NjYxMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE0MzQ2MTA4MDcsMzE1MDE4NjIwLC01NT
+g0MDMzNjgsLTQzMzI3NjU5NCwzNDMyMTA4MjAsLTczODI1NjQ0
+OCwtMTAyMTMyMTM0MSwxNTM2NzI3OTQwLDEyNDc2MDYyNjIsLT
+IwODg3NDY2MTIsLTMzMjQ1NTM2M119
 -->
