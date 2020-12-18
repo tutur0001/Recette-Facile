@@ -1,6 +1,9 @@
 # Product Name
 <div align="center">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 
 
 </div>
@@ -60,8 +63,8 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ2MTA4MDcsMzE1MDE4NjIwLC01NT
-g0MDMzNjgsLTQzMzI3NjU5NCwzNDMyMTA4MjAsLTczODI1NjQ0
-OCwtMTAyMTMyMTM0MSwxNTM2NzI3OTQwLDEyNDc2MDYyNjIsLT
-IwODg3NDY2MTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbNjU4NjAzNDMsMzE1MDE4NjIwLC01NTg0MD
+MzNjgsLTQzMzI3NjU5NCwzNDMyMTA4MjAsLTczODI1NjQ0OCwt
+MTAyMTMyMTM0MSwxNTM2NzI3OTQwLDEyNDc2MDYyNjIsLTIwOD
+g3NDY2MTIsLTMzMjQ1NTM2M119
 -->
