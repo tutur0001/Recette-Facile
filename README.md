@@ -33,7 +33,12 @@ https://recette-facile.netlify.app/
 
 <img src = "readmeSource/photo2.jpg" title = "google logo" alt = "Exemple ios">
 * Click on the icons
-<img src = "readmeSource/photo.jpg" title = "google logo" alt = "Exemple ios">
+<img src = "readmeSource/photo1.jpg" title = "google logo" alt = "Exemple ios">
+
+ * Click on "Sur l'écran d'accueil" 
+ 
+<img src = "readmeSource/photo3.jpg" title = "google logo" alt = "Exemple ios">
+ 
 
 
 
@@ -85,10 +90,10 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzUwODQ1MzgsNzc3MDk4ODk0LDcyNj
-kxMDYzMiwxNTgwMzY1ODk4LDM2MDA5OTI4NywtMTYzNjA4Mzg1
-MCwxMTUxMjUxMzY3LDIyMjQxNTMyMSwzMTUwMTg2MjAsLTU1OD
-QwMzM2OCwtNDMzMjc2NTk0LDM0MzIxMDgyMCwtNzM4MjU2NDQ4
-LC0xMDIxMzIxMzQxLDE1MzY3Mjc5NDAsMTI0NzYwNjI2MiwtMj
-A4ODc0NjYxMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTY2ODM3NzMzMyw3NzcwOTg4OTQsNzI2OT
+EwNjMyLDE1ODAzNjU4OTgsMzYwMDk5Mjg3LC0xNjM2MDgzODUw
+LDExNTEyNTEzNjcsMjIyNDE1MzIxLDMxNTAxODYyMCwtNTU4ND
+AzMzY4LC00MzMyNzY1OTQsMzQzMjEwODIwLC03MzgyNTY0NDgs
+LTEwMjEzMjEzNDEsMTUzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMD
+g4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
 -->
