@@ -33,7 +33,14 @@ npm start
 ```
 
 ## Add Recipes
-For add recipes in seeder go in
+For add recipes in seeder go in:
+```sh
+cd src
+vim recettes.js 
+```
+Follow this template for redacti
+
+
 
 
 ## Release History
@@ -66,8 +73,8 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjM3MzgxMSwyMjI0MTUzMjEsMzE1MD
-E4NjIwLC01NTg0MDMzNjgsLTQzMzI3NjU5NCwzNDMyMTA4MjAs
-LTczODI1NjQ0OCwtMTAyMTMyMTM0MSwxNTM2NzI3OTQwLDEyND
-c2MDYyNjIsLTIwODg3NDY2MTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbNTgyNjc5MzM3LDIyMjQxNTMyMSwzMTUwMT
+g2MjAsLTU1ODQwMzM2OCwtNDMzMjc2NTk0LDM0MzIxMDgyMCwt
+NzM4MjU2NDQ4LC0xMDIxMzIxMzQxLDE1MzY3Mjc5NDAsMTI0Nz
+YwNjI2MiwtMjA4ODc0NjYxMiwtMzMyNDU1MzYzXX0=
 -->
