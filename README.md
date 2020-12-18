@@ -31,7 +31,7 @@ IOS:
 Go on :
 https://recette-facile.netlify.app/
 
-<img src = "readmeSource/photo.jpg" title = "google logo" alt = "Exemple ios">
+<img src = "readmeSource/photo2.jpg" title = "google logo" alt = "Exemple ios">
 
 
 
@@ -82,10 +82,10 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA4MTQzMTcsNzc3MDk4ODk0LDcyNj
-kxMDYzMiwxNTgwMzY1ODk4LDM2MDA5OTI4NywtMTYzNjA4Mzg1
-MCwxMTUxMjUxMzY3LDIyMjQxNTMyMSwzMTUwMTg2MjAsLTU1OD
-QwMzM2OCwtNDMzMjc2NTk0LDM0MzIxMDgyMCwtNzM4MjU2NDQ4
-LC0xMDIxMzIxMzQxLDE1MzY3Mjc5NDAsMTI0NzYwNjI2MiwtMj
-A4ODc0NjYxMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTQ2NTUzMDkzLDc3NzA5ODg5NCw3MjY5MT
+A2MzIsMTU4MDM2NTg5OCwzNjAwOTkyODcsLTE2MzYwODM4NTAs
+MTE1MTI1MTM2NywyMjI0MTUzMjEsMzE1MDE4NjIwLC01NTg0MD
+MzNjgsLTQzMzI3NjU5NCwzNDMyMTA4MjAsLTczODI1NjQ0OCwt
+MTAyMTMyMTM0MSwxNTM2NzI3OTQwLDEyNDc2MDYyNjIsLTIwOD
+g3NDY2MTIsLTMzMjQ1NTM2M119
 -->
