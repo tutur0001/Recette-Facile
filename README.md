@@ -31,7 +31,7 @@ IOS:
 Go on :
 https://recette-facile.netlify.app/
 
-![IOS app](readmeSource/photo2.png"Photo exemple")
+![IOS app](readmeSource/photo2.jpg"Photo exemple")
 
 
 
@@ -82,10 +82,10 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg2NjEyMDUsNzc3MDk4ODk0LDcyNj
-kxMDYzMiwxNTgwMzY1ODk4LDM2MDA5OTI4NywtMTYzNjA4Mzg1
-MCwxMTUxMjUxMzY3LDIyMjQxNTMyMSwzMTUwMTg2MjAsLTU1OD
-QwMzM2OCwtNDMzMjc2NTk0LDM0MzIxMDgyMCwtNzM4MjU2NDQ4
-LC0xMDIxMzIxMzQxLDE1MzY3Mjc5NDAsMTI0NzYwNjI2MiwtMj
-A4ODc0NjYxMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTIyMzE4MDI1OSw3NzcwOTg4OTQsNzI2OT
+EwNjMyLDE1ODAzNjU4OTgsMzYwMDk5Mjg3LC0xNjM2MDgzODUw
+LDExNTEyNTEzNjcsMjIyNDE1MzIxLDMxNTAxODYyMCwtNTU4ND
+AzMzY4LC00MzMyNzY1OTQsMzQzMjEwODIwLC03MzgyNTY0NDgs
+LTEwMjEzMjEzNDEsMTUzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMD
+g4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
 -->
