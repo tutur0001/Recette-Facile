@@ -46,7 +46,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/Recette-Facile/fork>)
+1. Fork it (<https://github.com/tutur0001/Recette-Facile/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -60,6 +60,6 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODI1ODk0OSwxMjQ3NjA2MjYyLC0yMD
+eyJoaXN0b3J5IjpbMTUzNjcyNzk0MCwxMjQ3NjA2MjYyLC0yMD
 g4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
 -->
