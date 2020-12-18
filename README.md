@@ -3,7 +3,9 @@
 <div align="center">
 <a href="https://badge.fury.io/js/npm"><img src="https://badge.fury.io/js/npm.svg" alt="npm version" height="18"></a>
 </div>
+[![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/)
 
+    [![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/)
 
 One to two paragraph statement about your product and what it does.
 
@@ -60,7 +62,8 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzI3NjU5NCwzNDMyMTA4MjAsLTczOD
-I1NjQ0OCwtMTAyMTMyMTM0MSwxNTM2NzI3OTQwLDEyNDc2MDYy
-NjIsLTIwODg3NDY2MTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTU1ODQwMzM2OCwtNDMzMjc2NTk0LDM0Mz
+IxMDgyMCwtNzM4MjU2NDQ4LC0xMDIxMzIxMzQxLDE1MzY3Mjc5
+NDAsMTI0NzYwNjI2MiwtMjA4ODc0NjYxMiwtMzMyNDU1MzYzXX
+0=
 -->
