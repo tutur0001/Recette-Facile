@@ -15,8 +15,9 @@ OS X & Linux:
 
 ```sh
 git clone https://github.com/tutur0001/Recette-Facile.git
-cd 
-npm install my-crazy-module --save
+cd Recette-Facile
+npm install 
+
 ```
 
 
@@ -75,6 +76,6 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzYwNjI2MiwtMjA4ODc0NjYxMiwtMz
-MyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbODU5MjMxODUxLDEyNDc2MDYyNjIsLTIwOD
+g3NDY2MTIsLTMzMjQ1NTM2M119
 -->
