@@ -33,7 +33,7 @@ https://recette-facile.netlify.app/
 
 <img src = "readmeSource/photo2.jpg" title = "google logo" alt = "Exemple ios">
 
-* Click on the icons
+* Click on the icon
 
 <img src = "readmeSource/photo1.jpg" title = "google logo" alt = "Exemple ios">
 
@@ -41,20 +41,20 @@ https://recette-facile.netlify.app/
  
 <img src = "readmeSource/photo3.jpg" title = "google logo" alt = "Exemple ios">
 
-* After this Click on "Ajouter" 
+* After this click on "Ajouter" 
 well it's ready, Enjoy :)
  
 
 ## Start development setup
 
-For start your local serveur do:
+To start your local serveur do:
 
 ```sh
 npm start
 ```
 
 ## Add Recipes
-For add recipes in seeder go in:
+To add recipes in seeder go in:
 ```sh
 cd src
 vim recettes.js 
@@ -67,13 +67,13 @@ image: 'epinard.jpg',
 ingredients: '450g d\'Épinards, 2 Pommes, 6 tranches de Bacon, 1 Oignon',
 instructions: "Laver et couper en 2 les feuilles d'épinards.\nPréparer une sauce vinaigrette.\nLaver et couper les pommes. Emincer l'oignon. Faire griller le Bacon.\nAjouter le tout aux épinards.\nS'accorde bien avec un Pinot Blanc."
 },
-Follow the indentation file
+Follow the indentation format
 
 
 ## Release History
 
 * 1.0
-    * Start stable version of project
+    * First stable version of the project
 
 
 ## Meta
@@ -91,7 +91,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-6. if you want an access of the bdd contact me with this address mail michon-arthurpro@protonmail.ch
+6. if you want an access of the db contact me with this mail address michon-arthurpro@protonmail.ch
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwNzQyMzE4OTYsLTE1Nzk0MjcyNjcsLT
