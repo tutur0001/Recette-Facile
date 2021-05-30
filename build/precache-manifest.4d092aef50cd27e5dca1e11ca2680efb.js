@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/tartine.96c2f754.jpg"
   },
   {
-    "revision": "47cf68cd674f635a6d8adcb773deafe1",
+    "revision": "764801348a78457fd291c3ff22f1623e",
     "url": "/index.html"
   }
 ];
