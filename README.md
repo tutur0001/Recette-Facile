@@ -1,4 +1,4 @@
-# Recette Facile
+# Cooksy
 <div align="center">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -23,13 +23,13 @@
 OS X & Linux:
 
 ```sh
-git clone https://github.com/tutur0001/Recette-Facile.git
-cd Recette-Facile
+git clone https://github.com/tutur0001/Cooksy.git
+cd Cooksy
 npm install 
 ```
 IOS: 
 * Go on :
-https://recette-facile.netlify.app/
+https://cooksy.netlify.app/
 
 <img src = "readmeSource/photo2.jpg" title = "google logo" alt = "Exemple ios">
 
@@ -86,7 +86,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/tutur00/Recette-Facile/fork>)
+1. Fork it (<https://github.com/tutur0001/Cooksy.git/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
