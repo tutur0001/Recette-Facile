@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8d8ce2c40a2d961914d9",
-    "url": "/static/css/main.1700b25a.chunk.css"
+    "revision": "d3dcdaf24681ddc0a7b7",
+    "url": "/static/css/main.c8f4da49.chunk.css"
   },
   {
-    "revision": "8d8ce2c40a2d961914d9",
-    "url": "/static/js/main.8d8ce2c4.chunk.js"
+    "revision": "d3dcdaf24681ddc0a7b7",
+    "url": "/static/js/main.d3dcdaf2.chunk.js"
   },
   {
     "revision": "c06ab19e19cf666fe0a8",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/tartine.96c2f754.jpg"
   },
   {
-    "revision": "e2eaebef08259dc2d77221be54b82d07",
+    "revision": "47cf68cd674f635a6d8adcb773deafe1",
     "url": "/index.html"
   }
 ];

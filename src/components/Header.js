@@ -7,7 +7,7 @@ const Header = ({ pseudo }) => {
 
     return (
         <header>
-            <h1>Les recettes facile {formatPseudo(pseudo)}</h1>
+            <h1>Cooksy box {formatPseudo(pseudo)}</h1>
         </header>
     )
 }

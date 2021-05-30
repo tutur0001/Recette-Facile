@@ -25,7 +25,7 @@ class Connexion extends Component {
     return (
       <div className='connexionBox'>
         <form className='connexion' onSubmit={this.goToApp} >
-          <h1>Recette Facile</h1>
+          <h1>Cooksy</h1>
           <input
             type='text'
             value={this.state.pseudo}
